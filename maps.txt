@@ -1,0 +1,43 @@
+
+==============FIRST FLOOR + BASEMENT============================
+ ________   ____________________________________
+|        | |        |                    |      |
+|Basement| | Living |   Front             Garage|      
+|        | | Room •     Door      Stairs |      |      N
+|________| |___  ___|            ________|      |      |
+           |        |           |        |      |  W --•-- E
+           | Drawing|   Foyer   | Toilet |______|      |
+           |  Room                       |             S
+           |________|____   ____|________|
+           |        |           |        |
+           | Dining |  Kitchen  |Storage |  • = You got the map here
+           |  Room                       |
+           |________|___________|________|       
+                |                   |            
+                |      Garden       |      
+                |___________________|       
+
+================SECOND FLOOR + ATTIC==============================
+
+ ________________________________
+|          |                     | 
+| Bedroom  |  Hall •     Stairs  |   • = You got the map here
+|              Entry             |
+|__________|           __________|        N
+|          |          |          |        |
+|   Kids'  |   Lower  | Playroom |    W --•-- E
+|  Bedroom     Hall              |        |
+|__________|          |__________|        S
+|          |          |          :
+| Bathroom |   Hall     Balcony  :
+|                                :   ___________________
+|__________|          |__________:  |                   |
+|          |             Attic   |  |                   |
+|          |   Upper     Entry   |  |       Attic       |
+| Library      Hall    ___   ____|  |                   |
+|                     |          |  |___________________|
+|          |____  ____| Sunroom  |
+|          |          |          |
+|          |  Master  |          |
+|          | Bedroom  |          |
+|__________|__________|__________|
